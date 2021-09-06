@@ -1,4 +1,4 @@
-[![issue_open](https://github.com/eca21c/HelpDesk/actions/workflows/issue_open.yml/badge.svg)](https://github.com/eca21c/HelpDesk/actions/workflows/issue_open.yml)
+[![issue_open](https://github.com/eca21z/HelpDesk/actions/workflows/issue_open.yml/badge.svg)](https://github.com/eca21z/HelpDesk/actions/workflows/issue_open.yml)
 # HelpDesk
 한국산업기술대학교 기계공학과 프로그래밍 기초 / 공학전산해석 실습 보조<br>
 Exercise admin assist for KPU ME CPF / ECA courses

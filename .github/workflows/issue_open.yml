@@ -9,13 +9,6 @@ jobs:
       name: Test
       runs-on: ubuntu-latest
       steps:
-        - name: Welcome
-          uses: peter-evans/create-or-update-comment@v1
-          with:
-            issue-number: ${{ github.event.issue.number }}
-            body: |
-              Welcome to HelpDesk
-              Please wait a moment
         - name: Checkout helper
           uses: actions/checkout@v2
           with:
